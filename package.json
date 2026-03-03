@@ -1,0 +1,8 @@
+{
+  "name": "simple-crypto-staking-pool",
+  "version": "1.0.0",
+  "description": "ERC20 Token Staking Repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
